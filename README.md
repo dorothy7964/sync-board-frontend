@@ -103,7 +103,14 @@ raw Canvas API = 브라우저 기본 기능 그대로 사용
 
 # 🚀 Upcoming Features
 
-- Undo / Redo 및 Canvas 제어 기능
+- 보드 저장 및 불러오기
+- Undo / Redo 기능
+- 이미지 업로드 기능
+- 다중 보드 생성
+- 참여자 상태 표시
+- 다크 모드 지원
+- 모바일 환경 최적화
+- PDF / 이미지 내보내기
 
 <br/><br/>
 
