@@ -114,6 +114,13 @@ raw Canvas API = 브라우저 기본 기능 그대로 사용
 
 <br/><br/>
 
+# Environment
+
+- Node.js 20 LTS 이상
+- node 22.12.0 사용중
+
+<br/><br/>
+
 # Getting Started
 
 ```
